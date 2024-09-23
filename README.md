@@ -1,7 +1,7 @@
 # STEPS
 ### STEP 01 - Criando a base do projeto e tela inicial
 - [] - Instalar as dependências do projeto com `npm run dev`
-  - [] - Criar pagina Home: 
+  - [] - Criar pagina Home:
   - `pages/Home`,
   - `header`
   - `form` de busca
