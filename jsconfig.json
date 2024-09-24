@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "module": "NodeNext",
+    "target": "ES6",
+    "checkJs": true,  // Ativa verificação de erros no JavaScript
+    "jsx": "react-jsx",
+    // "baseUrl": "./src", // Configure a base para os imports
+    // "paths": {
+    //   "@shared/*": ["src/shared/*"],
+    //   "src/*": ["./src/*"],
+    // }
+  },
+  "include": ["src/**/*"]
+}
