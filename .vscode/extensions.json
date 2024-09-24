@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "paulmolluzzo.convert-css-in-js",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold"
+  ]
+}
